@@ -10,7 +10,7 @@ The following datasets will be extracted:
 3. Mortality Multiple Cause Files
 4. Fetal Death Data Files
 
-Transformations will be done on the files load data into a structured data warehouse.
+Transformations will be done on the data in Jupyter, and then loaded into a structured data warehouse.
 
 The data will be consolidated into a child, mother, and father dimention tables, each with a unique key to be used to join together.
 
