@@ -6,9 +6,9 @@ Using 2014 data from https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#B
 The following datasets will be extracted: 
 
 1. Birth Data Files
-2. Period Linked Birth-Infant Death Data Files
-3. Mortality Multiple Cause Files
-4. Fetal Death Data Files
+
+Child, Mother, and Father data is extracted from the same fixed lenth data file.
+
 
 Transformations will be done on the data in Jupyter, and then loaded into a structured data warehouse.
 
